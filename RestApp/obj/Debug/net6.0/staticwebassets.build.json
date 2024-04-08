@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "yAgKylqAR00YK6qhipto37ji/KiQA9ohC7H3UI7k3eA=",
+  "Source": "RestApp",
+  "BasePath": "_content/RestApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
